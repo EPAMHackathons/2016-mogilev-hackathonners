@@ -5,3 +5,18 @@ D:\Главная учебная\Программирование\PacmanHackatho
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners_MarkupCompile.cache
 c:\Users\Женя\Documents\Visual Studio 2013\Projects\Pack_hack\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.exe.config
 C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.exe.config
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\WidgetWindow.g.cs
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners_MarkupCompile.cache
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners_MarkupCompile.lref
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.exe
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.pdb
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\MainWindow.baml
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\WidgetWindow.baml
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.g.resources
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.Properties.Resources.resources
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.exe
+C:\Users\Admin\Documents\NewPackman\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.pdb

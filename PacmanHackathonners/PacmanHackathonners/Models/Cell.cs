@@ -9,7 +9,7 @@ namespace PacmanHackathonners
     class Cell
     {
         Random rnd = new Random();
-        public void Cell(int x, int y)
+        public Cell(int x, int y)
         {
             byte[,] cell = new byte[x, y];
             int bound_v = rnd.Next(0, 3);
