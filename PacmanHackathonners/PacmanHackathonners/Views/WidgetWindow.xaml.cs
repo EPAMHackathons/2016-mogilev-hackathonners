@@ -24,6 +24,15 @@ namespace PacmanHackathonners.Views
 		{
 			InitializeComponent();
 			DataContext = widgetWindowViewModel;
+
+			int indent = 7;
+			Left = SystemParameters.WorkArea.Width - Width - indent;
+			Top = indent;
+		}
+
+		private void MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+		{
+			DragMove();
 		}
 	}
 }

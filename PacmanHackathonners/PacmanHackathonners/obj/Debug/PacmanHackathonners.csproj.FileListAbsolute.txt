@@ -1,5 +1,16 @@
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.exe.config
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.csprojResolveAssemblyReference.cache
-D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\MainWindow.g.cs
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\App.g.cs
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners_MarkupCompile.cache
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.exe
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.pdb
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\MainWindow.g.cs
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\WidgetWindow.g.cs
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners_MarkupCompile.lref
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\MainWindow.baml
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\Views\WidgetWindow.baml
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.g.resources
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.Properties.Resources.resources
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.csproj.GenerateResource.Cache
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.exe
+D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners.pdb

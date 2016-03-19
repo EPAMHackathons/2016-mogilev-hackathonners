@@ -6,16 +6,16 @@
         xmlns:local="clr-namespace:PacmanHackathonners.Views"
         mc:Ignorable="d"
 				
-        Width="440" Height="200" ResizeMode="NoResize" ShowInTaskbar="False"
-        WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen" Background="Transparent">
+        Width="240" Height="100" ResizeMode="NoResize" ShowInTaskbar="False"
+        WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="Manual" Background="Transparent">
 
-	  <Grid Margin="5" Background="White">
+	<Grid Margin="5" Background="White" MouseLeftButtonDown="MouseLeftButtonDown">
 			<Grid.Effect>
 				<DropShadowEffect RenderingBias="Quality" Color="Black" ShadowDepth="0"  Opacity="0.5"/>
 			</Grid.Effect>
 
 		<Grid>
-			
+			<Button Content="Go" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0" Width="70" Command="{Binding StartClick}"/>
 		</Grid>
 			
 	</Grid>
