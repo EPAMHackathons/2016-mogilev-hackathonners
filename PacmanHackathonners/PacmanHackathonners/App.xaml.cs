@@ -5,6 +5,8 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using PacmanHackathonners.ViewModels;
+using PacmanHackathonners.Views;
 
 namespace PacmanHackathonners
 {
@@ -13,5 +15,10 @@ namespace PacmanHackathonners
 	/// </summary>
 	public partial class App : Application
 	{
+		private void ApplicationStartup(object sender, StartupEventArgs e)
+		{
+			WidgetWindowViewModel widgetWindowViewModel = new WidgetWindowViewModel();
+			WidgetWindow widgetWindow = new WidgetWindow(widgetWindowViewModel);
+		}
 	}
 }

@@ -48,7 +48,7 @@ namespace PacmanHackathonners {
         public void InitializeComponent() {
             
             #line 5 "..\..\App.xaml"
-            this.Startup += new System.Windows.StartupEventHandler(this.ApplicationStartup);
+            this.StartupUri = new System.Uri("MainWindow.xaml", System.UriKind.Relative);
             
             #line default
             #line hidden
