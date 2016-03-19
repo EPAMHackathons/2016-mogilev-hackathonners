@@ -56,6 +56,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Commands\DelegateCommand.cs" />
+    <Compile Include="Models\AntiVirus.cs" />
+    <Compile Include="Models\Cell.cs" />
+    <Compile Include="Models\Packman.cs" />
     <Compile Include="ViewModels\MainWindowVIewModel.cs" />
     <Compile Include="ViewModels\ViewModelBase.cs" />
     <Compile Include="ViewModels\WidgetWindowViewModel.cs" />
@@ -106,9 +109,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
