@@ -19,6 +19,10 @@ namespace PacmanHackathonners
 		{
 			WidgetWindowViewModel widgetWindowViewModel = new WidgetWindowViewModel();
 			WidgetWindow widgetWindow = new WidgetWindow(widgetWindowViewModel);
+			widgetWindow.Show();
+
+			MainWindowVIewModel mainWindowVIewModel = new MainWindowVIewModel();
+			MainWindow mainWindow = new MainWindow(mainWindowVIewModel);
 		}
 	}
 }

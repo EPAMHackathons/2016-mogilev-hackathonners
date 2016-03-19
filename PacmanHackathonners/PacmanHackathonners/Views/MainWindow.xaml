@@ -9,6 +9,9 @@
         ResizeMode="NoResize" ShowInTaskbar="False"
         WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen" Background="Transparent">
     <Grid>
-        
-    </Grid>
+			<Grid Background="Gray" Opacity="0.5"/>
+			<Grid>
+			
+			</Grid>
+	</Grid>
 </Window>
