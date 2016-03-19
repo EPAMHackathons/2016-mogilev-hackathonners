@@ -9,35 +9,31 @@ namespace PacmanHackathonners
     class Cell
     {
         Random rnd = new Random();
-        public void Cell(int x, int y)
+
+        private bool _right = false, _down = false;
+        private int fill = 0;
+
+        public Cell()
         {
-            byte[,] cell = new byte[x, y];
             int bound_v = rnd.Next(0, 3);
 
             switch (bound_v)
             {
                 case 0:
-                    cell = Create_Bound(x - x / 5, 0, x, y); // vertical
+                    _right = true; // vertical
                     break;
 
                 case 2:
-                    cell = Create_Bound(0, y - y / 5, x, y); // horizontal
+                    _down = true; // horizontal
                     break;
             }
         }
 
-        private byte[,] Create_Bound(int x_n, int y_n, int x_k, int y_k)
+        public int Fill
         {
-            byte[,] cell = new byte[x_k, y_k];
-
-            for (int i = x_n; i < x_k; i++)
-            {
-                for (int j = y_n; j < y_k; j++)
-                {
-                    cell[i, j] = 1;
-                }
-            }
-            return cell;
+            get { return fill; }
+            set { fill = value; }
         }
+
     }
 }
