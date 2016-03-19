@@ -3,3 +3,4 @@ D:\Главная учебная\Программирование\PacmanHackatho
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\MainWindow.g.cs
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\App.g.cs
 D:\Главная учебная\Программирование\PacmanHackathonners\PacmanHackathonners\PacmanHackathonners\obj\Debug\PacmanHackathonners_MarkupCompile.cache
+c:\Users\Женя\Documents\Visual Studio 2013\Projects\Pack_hack\PacmanHackathonners\PacmanHackathonners\bin\Debug\PacmanHackathonners.exe.config
